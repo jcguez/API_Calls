@@ -1,0 +1,19 @@
+{
+  "name": "proyecto3erparcial",
+  "version": "1.0.0",
+  "description": "API to make single custom calls",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcguez/API_Calls.git"
+  },
+  "author": "jcguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcguez/API_Calls/issues"
+  },
+  "homepage": "https://github.com/jcguez/API_Calls#readme"
+}
