@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/jcguez/API_Calls#readme",
   "dependencies": {
-    "config": "^3.1.0",
+    "config": "^3.3.8",
     "express": "^4.17.1",
     "express-validator": "^5.3.1",
     "mongodb": "^3.2.7",
